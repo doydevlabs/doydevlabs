@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+> Nothing is left, when you go right.
+
+```actionscript
+
+gsap.tl("Yellow Horld!");
+
+```
+
 <!--
 **doydevlabs/doydevlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
